@@ -11,7 +11,7 @@ const users = [
   { id: 1, name: "Daniel", email: "dan@gamil.com" },
   { id: 2, name: "Jabir", email: "jabir@gamil.com" },
   { id: 3, name: "kabir", email: "kabir@gamil.com" },
-  { id: 4, name: "Nabir", email: "nabir@gamil.com" },
+  { id: 5, name: "Nabir", email: "nabir@gamil.com" },
 ];
 
 app.get("/users", (req, res) => {
